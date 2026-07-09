@@ -16,6 +16,6 @@
 
 - AI-Seizure-Prediction  
   https://github.com/Reemwael720/AI-Seizure-Prediction
-
+  
 - Seizure-Alert-Mobile-App  
   https://github.com/Reemwael720/Seizure-Alert-Mobile-App
